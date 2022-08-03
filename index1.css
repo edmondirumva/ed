@@ -128,6 +128,12 @@ p{
     text-align: center;
 } 
 
-
-
+.icons{ 
+    display: flex;
+    padding: 20px;
+    font-size:25px;
+}
+.icons i{
+    padding: 10px;
+}
 
