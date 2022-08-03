@@ -136,4 +136,6 @@ p{
 .icons i{
     padding: 10px;
 }
-
+ .icons p{
+    font-size: 17px;
+ }
